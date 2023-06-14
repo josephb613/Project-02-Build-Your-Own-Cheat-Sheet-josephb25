@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=PT+Sans+Narrow&family=Roboto:ital@1&display=swap');
+
+
+body{
+  text-align:center;
+ background-color:white;
+  }
+
+#main{
+   background-color:#FDF5E6;
+  padding:40px;
+  height:800px;
+  border-radius:20px;
+}
+
+.entete1{
+  
+
+}
+
+title{
+  color:;
+}
+
+.table{
+  margin-left:150px;
+}
+
+table, th, td {
+  border: 1px solid green;
+  padding:10px;
+}
+
+th{
+font-size:0.7em;
+}
+
+table{
+  background-color:ghostwhite;
+}
+
+/* .entete{
+  background-color: aliceblue;
+} */
+
+.entete:hover {
+  background-color: #f99595;
+  color: white;
+}
